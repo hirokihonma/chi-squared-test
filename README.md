@@ -10,3 +10,5 @@
 
 ## Usage
 ### :green_book: Excel
+* [FMT](https://github.com/hirokihonma/chi-squared-test/blob/master/resource/fmt_chi-squared-test.xlsx)
+* [利用方法(Wiki)](https://github.com/hirokihonma/chi-squared-test/wiki/How-to-Excel-FMT)
